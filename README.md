@@ -6,7 +6,7 @@
 node index.js -a list
 ```
 
-[list](assets/list.jpg)
+(assets/list.jpg)
 
 ## Get a contact by id from the db
 
