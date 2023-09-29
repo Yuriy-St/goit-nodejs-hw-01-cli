@@ -14,7 +14,7 @@ node index.js -a list
 node index.js -a get -i rsKkOQUi80UsgVPCcLZZW
 ```
 
-![get](assets/get.jpg.jpg)
+![get](assets/get.jpg)
 
 ## Add a contact to the db
 
